@@ -1,0 +1,36 @@
+total 0
+drwxr-xr-x 1 d78a8c12619d d78a8c12619d 4096 Mar  8 22:12 .
+drwxr-xr-x 1 d78a8c12619d d78a8c12619d 4096 Mar  8 08:34 ..
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   30 Mar  8 22:07 0-hello_world
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d    0 Mar  8 11:57 1
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   28 Mar  8 09:19 1-confused_smiley
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d   48 Mar  8 10:45 10-n0_more_js
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   48 Mar  8 10:46 10-no_more_js
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   56 Mar  8 11:48 100-empty_casks
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d  106 Mar  8 11:52 101-gifs
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   38 Mar  8 11:55 102-acrostic
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d  113 Mar  8 12:02 103-the_biggest_fan
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   50 Mar  8 10:52 11-directories
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   33 Mar  8 10:55 12-newest_files
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   27 Mar  8 10:58 13-unique
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   39 Mar  8 11:06 14-findthatword
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   41 Mar  8 11:10 15-countthatword
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   44 Mar  8 11:19 16-whatsnext
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   41 Mar  8 11:22 17-hidethisword
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   50 Mar  8 11:28 18-letteronly
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   36 Mar  8 11:32 19-AZ
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   28 Mar  8 09:27 2-hellofile
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   23 Mar  8 11:35 20-hiago
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d   16 Mar  8 11:37 21-reverse
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   49 Mar  8 11:41 22-user_and_homes
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   39 Mar  8 09:36 3-twofiles
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   35 Mar  8 09:46 4-lastlines
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   35 Mar  8 09:50 5-firstlines
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   40 Mar  8 10:10 6-third_line
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d  100 Mar  8 10:30 7-file
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   37 Mar  8 22:11 8-cwd_state
+-rwxr--r-- 1 d78a8c12619d d78a8c12619d   37 Mar  8 10:41 9-duplicate_last_line
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d   35 Mar  8 08:36 README.md
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d   12 Mar  8 10:31 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d    0 Mar  8 10:41 iacta
+-rw-r--r-- 1 d78a8c12619d d78a8c12619d    0 Mar  8 22:12 ls_cwd-content
